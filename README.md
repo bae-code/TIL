@@ -1,4 +1,4 @@
 # Today I Learned(TIL)
 
 ## Python
-* lambda
+* lambda(./Python/lambda.md)
