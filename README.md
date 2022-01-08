@@ -19,4 +19,4 @@
 * [21.12.28 TIL](https://velog.io/@bae-code/TIL)
 
 
-*[sql , nosql의 차이](https://devuna.tistory.com/25)
+* [sql , nosql의 차이](https://devuna.tistory.com/25)
