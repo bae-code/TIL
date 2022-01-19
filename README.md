@@ -7,7 +7,7 @@
 
 =======
 * [31_game](python/31_gamy.py)
-
+* [char_to_int](python/char_to_int.py)
 
 
 =======
