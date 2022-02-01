@@ -6,8 +6,8 @@
 * [lambda](Python/lambda.md)
 
 =======
-* [31_game](python/31_gamy.py)
-* [char_to_int](python/char_to_int.py)
+* [31_game](Python/31_gamy.py)
+* [char_to_int](Python/char_to_int.py)
 
 
 =======
