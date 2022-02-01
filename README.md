@@ -21,4 +21,4 @@
 
 * [sql , nosql의 차이](https://devuna.tistory.com/25)
 
-* [pymysql_insert](python/pysql_insert.py)
+* [pymysql_insert](Python/pysql_insert.py)
