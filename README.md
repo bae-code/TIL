@@ -23,3 +23,9 @@
 
 * [pymysql_insert](Python/pysql_insert.py)
 * [django ORM](https://velog.io/@bae-code/%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-ajax)
+
+_________
+22.05.15
+* [aws 서비스](TIL\DataEngineer\22.05.15(AWS).md)
+* [Kafka](TIL\DataEngineer\22.05.15(Kafka).md)
+* [Cookie](TIL\CS\Cookie.md)
