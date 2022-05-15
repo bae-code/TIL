@@ -26,6 +26,6 @@
 
 _________
 22.05.15
-* [aws 서비스](TIL\DataEngineer\22.05.15(AWS).md)
-* [Kafka](TIL\DataEngineer\22.05.15(Kafka).md)
-* [Cookie](TIL\CS\Cookie.md)
+* [aws 서비스](TIL/DataEngineer/22.05.15(AWS).md)
+* [Kafka](TIL/DataEngineer/22.05.15(Kafka).md)
+* [Cookie](TIL/CS/Cookie.md)
